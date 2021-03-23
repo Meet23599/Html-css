@@ -1,0 +1,13 @@
+h1{
+	color: red;
+	text-align: center;
+}
+p{
+	font-size: 10px;
+	color: royalblue;
+}
+img{
+	width: 150px;
+	margin: 300px;
+	border-radius: 30px;
+}
